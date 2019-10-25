@@ -1,0 +1,11 @@
+body {
+	background-image: url('image/rakan.jpg');
+	background-size: cover;
+}
+.btn {
+	opacity: 0.8;
+	width: 150px;
+	height: 100px;
+	font-family: Comic Sans MS;
+	font-weight: bold;
+}

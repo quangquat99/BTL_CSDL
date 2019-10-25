@@ -1,0 +1,11 @@
+body {
+	background-image: url('https://4.bp.blogspot.com/-EgZMH0ISf7o/WOPavTXDKKI/AAAAAAAAhRw/jJ8TmSBAlhQZBFaDqtFIyrBMU2xtLF9XACLcB/s1600/rakan.jpg');
+	background-size: cover;
+}
+.btn {
+	opacity: 0.8;
+	width: 150px;
+	height: 100px;
+	font-family: Comic Sans MS;
+	;font-weight: bold;
+}
